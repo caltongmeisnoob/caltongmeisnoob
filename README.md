@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My main work is stored here : https://github.com/Clatnog
     🔭 I'm currently working on high-performance Mandelbrot set generators and multi-threaded fractal visualization projects in both C++ and Java
 
     🌱 I'm currently learning parallel computing, performance benchmarking, and algorithm optimization techniques through hands-on projects
